@@ -13,4 +13,4 @@ This challenge used data from the crypto_data CSV file to evaluate various cryto
 * [Atomic:] There is 1 Jupyter notebook crypto_clustering_code have been created for the model.
 
 ## Summary  Graphics
-* [Atomic:] A 3D-Scatter with the PCA data was created and can be viewed at: 
+* [Atomic:] A 3D-Scatter with the PCA data was created and can be viewed at: https://github.com/lykkelig/Cryptocurrencies/blob/main/Crypto.png
